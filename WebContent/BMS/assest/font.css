@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+/* 어디서나 같은 폰트를 가지기 위해 외부 폰트 가져옴 */
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:700,700i');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:700');
+
